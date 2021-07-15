@@ -1,0 +1,14 @@
+{
+    "name": "fabio/2gs",
+    "authors": [{
+        "name": "Fábio Lima",
+        "email": "fabio@2gstec.com"
+    }],
+    "autoload": {
+        "files": [
+            "app/helpers/constants.php"
+        ],
+        "psr-4": { "app\\": "app" }
+    },
+    "require": {}
+}
